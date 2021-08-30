@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sank.
-- 👀 I’m interested in JAVA
+- 👀 I’m interested in JAVA, Python 
 - 🌱 I’m currently learning JS  
-- 💞️ I’m looking to collaborate on My Own Project
+- 💞️ I’m looking to collaborate on exciting Project. 
 - 📫 How to reach me kattels@wit.edu
 
 <!---
